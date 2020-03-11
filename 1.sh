@@ -1,4 +1,4 @@
 git add --all
-git commit -m "qweqwe"
+git commit -m "qwqqqeqwe"
 git push origin
-ssh dkhal@10.111.1.24 -p 50683 'cd /var/www/html && sudo git pull'
+ssh vpozniak@10.111.1.21 -p 50683 'cd /var/www/ && sudo git pull'
